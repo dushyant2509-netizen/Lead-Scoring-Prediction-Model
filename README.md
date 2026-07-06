@@ -1,4 +1,5 @@
 # Lead Scoring Prediction Model
+![Project Banner](banner.png)
 
 ## Project Overview
 Developed a machine learning model to identify potential leads and improve lead conversion rates for an EdTech company.
